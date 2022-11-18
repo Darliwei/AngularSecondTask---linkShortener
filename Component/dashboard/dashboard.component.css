@@ -1,0 +1,23 @@
+.flexContainer {
+    display: flex;
+}
+
+.inputField {
+    flex: 1;
+}
+
+.text{
+    font-family: Poppins;
+    font-weight: 700;
+    color:#F0CAA3;
+    letter-spacing: 5px;
+}
+
+.response{
+    background-color:#EAE3D2;
+    font-family: Poppins;
+    font-weight: 700;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    border-color: #0000;
+}
